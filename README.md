@@ -20,5 +20,5 @@ CADQuery is an excellent option for making assemblies.
 + https://github.com/MinaPecheux
 + https://github.com/CommonWealthRobotics/BowlerStudio
 + Blender API: https://docs.blender.org/api/current/index.html
-+ Blender Script Animation Example: https://demando.io/blog/dev-generating-a-procedural-solar-system-with-blenders-python-api
++ Blender Script Animation Example, excellent blog post: https://demando.io/blog/dev-generating-a-procedural-solar-system-with-blenders-python-api
 + Good YouTube Channel: https://www.youtube.com/watch?v=KFb4r8UVO0A&list=PLscNcVn_eHIdD3ZIbUKd946KX8VFIJXsJ&index=1
