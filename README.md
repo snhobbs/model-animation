@@ -1,8 +1,14 @@
 # model-animation
 Resources and examples for animating assemblies
 
+## Making Assembly
+Make an assembly in your CAD program of choice and export as a qlTF file either directly or export a step file, import into FreeCAD and export there.
+
+CADQuery is an excellent option for making assemblies.
+## CADQuery Assembly
+
 ## Steps
-1. Export assembly in FreeCAD as a glTF. This will maintain the names in the assembly
+1. Export assembly in FreeCAD as a glTF. This will maintain the names in the assembly.
 2. Import into blender
 3. Write the script describing the part movement or do using the GUI 
 4. Run script
