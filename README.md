@@ -4,8 +4,13 @@ Resources and examples for animating assemblies
 ## Making Assembly
 Make an assembly in your CAD program of choice and export as a qlTF file either directly or export a step file, import into FreeCAD and export there.
 
-CADQuery is an excellent option for making assemblies.
 ## CADQuery Assembly
+CADQuery is an excellent option for making assemblies.
+Assign names programmatically as needed.
+Assemblies are easier to edit and maintain when the relationships are more literal than
+is possible with most CAD systems.
+
++ CADQuery Assemblies: https://cadquery.readthedocs.io/en/latest/assy.html 
 
 ## Steps
 1. Export assembly in FreeCAD as a glTF. This will maintain the names in the assembly.
