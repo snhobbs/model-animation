@@ -21,9 +21,20 @@ is possible with most CAD systems.
 6. Render the video or image export of frames (https://docs.blender.org/manual/en/latest/render/output/animation.html)
 
 ## Resources
+Seems the best place to ask questions is the [Discord](https://discord.com/invite/blender)
+
+### Videos
++ https://www.youtube.com/watch?v=n27rgkp5UmQ
++ Good YouTube Channel: https://www.youtube.com/watch?v=KFb4r8UVO0A&list=PLscNcVn_eHIdD3ZIbUKd946KX8VFIJXsJ&index=1
++ https://www.youtube.com/watch?v=gAYdVjvSeew
+
+### Repos
 + https://github.com/funwithtriangles/blender-to-threejs-export-guide
 + https://github.com/MinaPecheux
 + https://github.com/CommonWealthRobotics/BowlerStudio
-+ Blender API: https://docs.blender.org/api/current/index.html
+
+### Examples
 + Blender Script Animation Example, excellent blog post: https://demando.io/blog/dev-generating-a-procedural-solar-system-with-blenders-python-api
-+ Good YouTube Channel: https://www.youtube.com/watch?v=KFb4r8UVO0A&list=PLscNcVn_eHIdD3ZIbUKd946KX8VFIJXsJ&index=1
+
+### Manuals
++ Blender API: https://docs.blender.org/api/current/index.html
